@@ -26,7 +26,7 @@ To add your name & paper to the table below, edit the [source code on GitHub](ht
 | 03 Apr 2018 | Petr Houška        | Jason Liang, Elliot Meyerson, Risto Miikkulainen: **[Evolutionary Architecture Search For Deep Multitask Networks](https://arxiv.org/abs/1803.03745)**
 | 10 Apr 2018 | &nbsp;             | &nbsp;
 | 17 Apr 2018 | Ronald Cardenas    | &nbsp;
-| 24 Apr 2018 | &nbsp;             | &nbsp;
+| 24 Apr 2018 | Jakub Náplava             | &nbsp;
 |*01 May 2018*|*No DL Seminar*     |*Holiday – May Day*
 |*08 May 2018*|*No DL Seminar*     |*Holiday – Victory Day*
 | 15 May 2018 | &nbsp;             | &nbsp; | &nbsp;
